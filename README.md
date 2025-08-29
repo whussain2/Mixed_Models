@@ -1,4 +1,3 @@
-# Mixed_Models
 # Disecting Mixed Models: BLUEs and BLUPs
 ![](www/mixall.png)
 
@@ -12,28 +11,27 @@
 #  Source code and Document
 
 
-- The source code in ****.R****  is available here [Mixed_Models](https://github.com/whussain2/R-for-Plant-Breeding/blob/master/Mixed_Models/Disecting_Mixed_model_Equation.R)
+- The source code in ****.R****  is available here [Mixed_Models](https://github.com/whussain2/Mixed_Models/blob/main/Disecting_Mixed_model_Equation.R)
 
 
-- The Step-by-Step guide and PDF document file is available here [Mixed_Model_Tutorial](https://htmlpreview.github.io/?https://github.com/whussain2/R-for-Plant-Breeding/blob/master/Mixed_Models/Disecting_Mixed_model_Equation.pdf)
+- The Step-by-Step guide and PDF document file is available here [Mixed_Model_Tutorial](https://github.com/whussain2/Mixed_Models/blob/main/Disecting_Mixed_model_Equation.pdf)
 
 
-# How to Use the Source Codes and Run the Pipeline
+# How to Use the Source Codes and Run It locally
 
 
 The steps to use the source codes and run it on local computer is given below:
 
-- Open the GitHub page containing the source codes and files by using clicking the link [https://github.com/whussain2/R-for-Plant-Breeding](https://github.c).
+- Open the GitHub page containing the source codes and files by using clicking the link [https://github.com/whussain2/Mixed_Models/tree/main](https://github.com/whussain2/Mixed_Models/tree/main).
 - This will pop-up the Github repository, click on the **Code** button on right side of page highlighted as green box and scroll and click on **Download Zip**.
 - Save and unzip the downloaded repository in local drive.
-- Set **GWAS_in_R** as your working directory in R  
-- Open the ***.Rmd*** file in R Studio and make sure to change the working directory based on users defined path to the repository.
-- For opening HTML files, just open them in any browser. 
+- Set **Mixed_Models_** as your working directory in R  
+- Open the ***.R*** file in R Studio and make sure to change the working directory based on users defined path to the repository.
+- For opening PDF files, just open them in any any PDF package. 
 
-- Also users must install and upload the following R packages before running the pipeline:
 
 
 # Contact
-You may contact the author of this code, Waseem Hussain at <waseem.hussain@irri.org>; <waseemhussain907@gmail.com>
+You may contact the author of this code, Waseem Hussain at <waseem.hussain@cgiar.org>; <waseemhussain907@gmail.com>
 ***
 
